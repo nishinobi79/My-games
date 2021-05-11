@@ -1,0 +1,432 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bal",
+				"BALL_SPEED"
+			],
+			[
+				"ba",
+				"BALL_SPEED"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"vel",
+				"velX"
+			],
+			[
+				"l_",
+				"l_paddle"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"Font",
+				"FONT_SIZE"
+			],
+			[
+				"Fon",
+				"FONT_SIZE"
+			],
+			[
+				"las",
+				"lastTime"
+			],
+			[
+				"rendr",
+				"renderer"
+			],
+			[
+				"TT",
+				"TTF_Font"
+			],
+			[
+				"fp",
+				"fps"
+			],
+			[
+				"SDL_",
+				"SDL_CreateWindowAndRenderer"
+			],
+			[
+				"f",
+				"frameTicks"
+			],
+			[
+				"s",
+				"startTick"
+			],
+			[
+				"S",
+				"SDL_Texture"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"entity",
+				"entity2"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"gras",
+				"grassTexture"
+			],
+			[
+				"SDL",
+				"SDL_Texture"
+			],
+			[
+				"SD",
+				"SDL_GetError"
+			],
+			[
+				"min",
+				"min_steps"
+			],
+			[
+				"b",
+				"bnrysrch"
+			],
+			[
+				"e",
+				"ecol"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"st",
+				"str1"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"end",
+				"endrow"
+			],
+			[
+				"star",
+				"startrow"
+			],
+			[
+				"sta",
+				"startrow"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"ma",
+				"maxsum"
+			],
+			[
+				"re",
+				"return"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 4643,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sdl_game.sublime-project",
+			"settings":
+			{
+				"buffer_size": 803,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/College Work/Devclub/sdl_game"
+	],
+	"file_history":
+	[
+		"/E/College Work/Devclub/sdl_game/sdl_game.sublime-project",
+		"/E/College Work/Devclub/sdl_game/src/entity.cpp",
+		"/E/College Work/Devclub/sdl_game/src/main1.cpp",
+		"/E/College Work/Devclub/sdl_game/src/main.cpp",
+		"/E/College Work/Devclub/sdl_game/src/math.cpp",
+		"/E/College Work/Devclub/sdl_game/src/renderwindow.cpp",
+		"/E/College Work/Devclub/sdl_game/include/Utils.hpp",
+		"/E/College Work/Devclub/sdl_game/include/Math.hpp",
+		"/E/College Work/Devclub/sdl_game/include/Entity.hpp",
+		"/E/College Work/Devclub/sdl_game/include/RenderWindow.hpp",
+		"/E/College Work/Devclub/sdl_game/include/entity.hpp",
+		"/E/College Work/Devclub/sdl_game/main.cpp",
+		"/C/Users/nisag/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/output.txt",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/input.txt",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code5.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code4.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code3.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code2.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code1.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/code0.cpp",
+		"/C/Users/nisag/Desktop/nishant/first.cpp",
+		"/C/Users/nisag/Downloads/Ide.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/main.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/main1.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/part1.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/testing_1.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/testing_2.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/hello.cpp",
+		"/C/Users/nisag/Documents/C++ codes/Coding Blocks/testing_1.exe"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"write"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sdl_game.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								311,
+								311
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 194.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"project": "sdl_game.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
