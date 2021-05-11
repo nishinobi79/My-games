@@ -1,6 +1,5 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
-// #include "SDL_ttf.h"
 #include <bits/stdc++.h>
 
 #define WIDTH 720
@@ -52,7 +51,7 @@ void write(std::string text, int x, int y)
 	SDL_Surface *surface;
 	SDL_Texture *texture;
 
-	if(font == NULL) std::cout << "Font not found" << std::endl;
+	if(font == NULL) std::cout << "FONT NOT FOUND" << std::endl;
 
 	const char* t = text.c_str();
 	surface = TTF_RenderText_Solid(font, t, color);
@@ -166,6 +165,10 @@ int main(int argc, char* argv[])
 	TTF_Init();
 
 	font = TTF_OpenFont("./res/gfx/Peepo.ttf", FONT_SIZE);
+	if(font==NULL)
+	{
+		std::cout << "T_T" << std::endl;
+	}
 
 	running = true;
 	static int lastTime = 0;
