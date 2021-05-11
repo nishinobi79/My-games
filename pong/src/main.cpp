@@ -165,7 +165,7 @@ int main(int argc, char* argv[])
 
 	TTF_Init();
 
-	font = TTF_OpenFont("E:/College Work/Devclub/My-games/pong/res/gfx/Peepo.ttf", FONT_SIZE);
+	font = TTF_OpenFont("./res/gfx/Peepo.ttf", FONT_SIZE);
 
 	running = true;
 	static int lastTime = 0;
